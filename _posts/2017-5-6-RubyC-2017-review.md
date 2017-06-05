@@ -25,7 +25,7 @@ The other professional speaker is **Piotr Solnica**. He was wearing [**#pivorak*
 
 **Serdar Dogruyol** gave a talk about **Crystal**. He was telling how to introduce **Crystal** into **Rails** app. Serdar rewrote payment part in **Crystal** because **Rails** could not fulfill the needs of the product. Also, he showed benchmarks and memory usage. His **Crystal** microservice uses 25mb of RAM. Impressive.
 
-**Quentin Adam** was talking about microservices and pitfalls that you can avoid. His project had around 400 microservices in different languages. It sounds sexy because microservice could write in a different language depending on the needs and easily scale. However, management of such repositories & deployment scares and amazes me.
+**Quentin Adam** was talking about microservices and pitfalls that you can avoid. His project has around 400 microservices in different languages. It sounds sexy because microservice could be written in different language depending on the needs and easily scale. However, management of such repositories & deployment scares and amazes me.
 
 Finally **Sergiy Kukunin**'s talk was a good ending for the conference. It was quite abstract, not totally coupled with Ruby. There were not too much code, but when it was it was concise and clear. He mentioned DDD, rom-rb gems and other solutions.
 
