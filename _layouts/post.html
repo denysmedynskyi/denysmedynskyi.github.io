@@ -13,6 +13,10 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
+  <div class="newsletter">
+    {% include newsletter.html %}
+  </div>  
+
   <div class="comments">
     {% include disqus.html %}
   </div>

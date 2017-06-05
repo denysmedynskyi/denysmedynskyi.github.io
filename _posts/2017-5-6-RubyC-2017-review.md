@@ -32,6 +32,6 @@ Finally **Sergiy Kukunin**'s talk was a good ending for the conference. It was q
 # summary
 
 I loved attending **RubyC** and I hope that it will be better every year.
-It is so inspiring to meet so many passionate people from different countries.
+It is so inspiring to meet so many passionate people from around the world.
 
-Thank you for reading and subscribe to my blog!
+Thank you for reading and subscribe to my mailing list below!
