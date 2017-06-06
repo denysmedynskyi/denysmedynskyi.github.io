@@ -3,7 +3,7 @@ layout: post
 title: RubyC 2017 review
 ---
 
-Have you missed the best **Ruby** conference in **Ukraine**? It is not a problem. Here is my review on it.
+Have you missed the best **Ruby** conference in Ukraine? It is not a problem. Here is my review on it.
 
 #organization
 
