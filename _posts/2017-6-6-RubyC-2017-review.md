@@ -17,23 +17,22 @@ If someone would like to destroy **Ruby** community in Ukraine the easiest way t
 
 ## talks
 
-The first talk I liked was **Piotr Szotkowski - Ruby Smells**. It was such general talk that you can apply in other languages. I understood that I don’t so many different smells he mentioned, so I have a lot of things to read now).
+The first talk I liked was [**Piotr Szotkowski - Ruby Smells**](http://talks.chastell.net/rubyc-2017/#/). It was such general talk that you can apply in other languages. I understood that I don’t so many different smells he mentioned, so I have a lot of things to read now).
 
 **Bozhidar Batsov** is a professional speaker, creator of **Rubocop** & **Ruby** style guide. I was listening to this for the second time. It was a nice overview of things that **Ruby** lacks and a lot of **Clojure** promotion) It is nice when people are following different languages, so it gives different views and approaches.
 
-The other professional speaker is **Piotr Solnica**. He was wearing a [#pivorak](https://pivorak.com/) t-shirt. It is a sign of real appreciation of [#pivorak](https://pivorak.com/) work. Piotr was speaking about the new version of the rom-rb ecosystem. He was saying wise things about bad parts of **ActiveRecord** and how is it implemented in **rom-rb**.
+The other professional speaker is **Piotr Solnica**. He was wearing a [#pivorak](https://pivorak.com/) t-shirt. It is a sign of real appreciation of [#pivorak](https://pivorak.com/) work. Piotr was speaking about the new version of the rom-rb ecosystem. He was saying wise things about bad parts of **ActiveRecord** and how is it implemented in [**rom-rb**](http://rom-rb.org/).
 
-**Serdar Dogruyol** gave a talk about **Crystal**. He was telling how to introduce **Crystal** into **Rails** app. **Serdar** rewrote payment part in **Crystal** because **Rails** could not fulfill the needs of the product. Also, he showed benchmarks and memory usage. His **Crystal** **microservice** uses 25mb of RAM. Impressive.
+**Serdar Dogruyol** gave a talk about [**Crystal**](https://crystal-lang.org/). He was telling how to introduce [**Crystal**](https://crystal-lang.org/) into **Rails** app. **Serdar** rewrote payment part in [**Crystal**](https://crystal-lang.org/) using [**Kemal framework**](https://github.com/kemalcr/kemal). Also, he showed impressive benchmarks and memory usage(his **microservice** uses 25mb of RAM).
 
 Quentin Adam was talking about **microservices** and pitfalls that you can avoid. His project has around 400 **microservices** in different languages. It sounds sexy because **microservice** could be written in a different language depending on the needs and easily scale. However, management of such repositories & deployment scares and amazes me.
 
-Finally, **Sergiy Kukunin**’s talk was a good ending for the conference. It was quite abstract, not totally coupled with Ruby. There were not too much code, but when it was it was concise and clear. To solve his problems he uses **DDD** & **rom-rb**.
+Finally, **Sergiy Kukunin**’s talk was a good ending for the conference. It was quite abstract, not totally coupled with **Ruby**. There were not too much code, but when it was it was concise and clear. To solve his problems he uses **DDD** & [**rom-rb**](http://rom-rb.org/).
 
 ## trends
 
 * be interested in the non-**Ruby** world
 * **microservices**
-* rewrite slow parts in **other** languages
 * say no to **Rails** way
 
 
