@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Programmer, [#pivorak](https://pivorak.com)er, scuba diver and nice guy.
+Core team memmber of [Toptal](https://www.toptal.com/), core team member of [#pivorak](https://pivorak.com), scuba diver and nice guy.
 
 ### Contact me
 
