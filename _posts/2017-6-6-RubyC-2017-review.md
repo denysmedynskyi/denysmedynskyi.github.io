@@ -5,17 +5,17 @@ title: RubyC 2017 review
 
 Have you missed the best **Ruby** conference in Ukraine? It is not a problem. Here is my review on it.
 
-#organization
+## organization
 
 I will start with organization. The venue was nicer than the year before, the organization was great. However, I was lacking a particular place for talking with speakers and attendees. Last year there was a lobby where everyone was hanging out after each talk or during breaks. Also, it would be better if after-party was in more quiet place.
 
-#networking
+## networking
 
 I met a lot of nice people. Also, there were a lot of acquaintances from other conferences and meetups. I talked with so big amount of people, that in the end of the day I was tired of talking and communication. This is the feelings of an introvert) I will summarize with **Ben Lowell**’s quote:
 
 If someone would like to destroy **Ruby** community in Ukraine the easiest way to do it is to explode rubyc.eu venue.
 
-#talks
+## talks
 
 The first talk I liked was **Piotr Szotkowski - Ruby Smells**. It was such general talk that you can apply in other languages. I understood that I don’t so many different smells he mentioned, so I have a lot of things to read now).
 
@@ -29,7 +29,7 @@ Quentin Adam was talking about **microservices** and pitfalls that you can avoid
 
 Finally, **Sergiy Kukunin**’s talk was a good ending for the conference. It was quite abstract, not totally coupled with Ruby. There were not too much code, but when it was it was concise and clear. To solve his problems he uses **DDD** & **rom-rb**.
 
-#trends
+## trends
 
 * be interested in the non-**Ruby** world
 * **microservices**
@@ -37,7 +37,7 @@ Finally, **Sergiy Kukunin**’s talk was a good ending for the conference. It wa
 * say no to **Rails** way
 
 
-#summary
+## summary
 
 
 I loved attending **RubyC** and I hope that it will be better every year. It is so inspiring to meet so many passionate people from around the world.
