@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Ruby programmer with X years of experience.
+Programmer, [#pivorak](https://pivorak.com)er, scuba diver and nice guy.
 
 ### Interests
 
-Programming, diving & personal development.
+Programming, music & personal development.
 
 ### Contact me
 
