@@ -33,4 +33,4 @@ summary
 
 I loved attending RubyC and I hope that it will be better every year. It is so inspiring to meet so many passionate people from around the world.
 
-Share your thoughts about the conference in comments section.
+Share your thoughts about the conference in the comments section and subscribe to receive next blog posts.
