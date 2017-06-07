@@ -7,7 +7,9 @@ Have you missed the best **Ruby** conference in Ukraine? It is not a problem. He
 
 ## organization
 
-I will start with organization. The venue was nicer than the year before, the organization was great. However, I was lacking a particular place for talking with speakers and attendees. Last year there was a lobby where everyone was hanging out after each talk or during breaks. Also, it would be better if after-party was in more quiet place.
+The venue was nicer than the year before, the organization was great.
+There were a lot places for lunch around the venue, so you could easily have lunch and be in time for the next talk.
+However, I was lacking a particular place for talking with speakers and attendees. Last year there was a lobby where everyone was hanging out after each talk or during breaks. Also, it would be better if after-party was in more quiet place.
 
 ## networking
 
