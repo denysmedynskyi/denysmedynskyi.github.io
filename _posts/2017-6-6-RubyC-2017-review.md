@@ -29,7 +29,7 @@ The first talk I liked was [**Piotr Szotkowski - Ruby Smells**](http://talks.cha
 
 **Bozhidar Batsov** is a professional speaker, creator of **Rubocop** & **Ruby** style guide. I was listening to this for the second time. It was a nice overview of things that **Ruby** lacks and a lot of **Clojure** promotion) It is nice when people are following different languages, so it gives different views and approaches.
 
-The other professional speaker is **Piotr Solnica**. He was wearing a [#pivorak](https://pivorak.com/) t-shirt. It is a sign of real appreciation of [#pivorak](https://pivorak.com/) work. Piotr was speaking about the new version of the rom-rb ecosystem. He was saying wise things about bad parts of **ActiveRecord** and how is it implemented in [**rom-rb**](http://rom-rb.org/).
+The other professional speaker is **Piotr Solnica**. He was wearing a [#pivorak](https://pivorak.com/) t-shirt. It is a sign of real appreciation of [#pivorak](https://pivorak.com/) work. Piotr was speaking about the new version of the [**rom-rb**](http://rom-rb.org/) ecosystem. He was saying wise things about bad parts of **ActiveRecord** and how is it fixed in [**rom-rb**](http://rom-rb.org/).
 
 **Serdar Dogruyol** gave a talk about [**Crystal**](https://crystal-lang.org/). He was telling how to introduce [**Crystal**](https://crystal-lang.org/) into **Rails** app. **Serdar** rewrote payment part in [**Crystal**](https://crystal-lang.org/) using [**Kemal framework**](https://github.com/kemalcr/kemal). Also, he showed impressive benchmarks and memory usage(his **microservice** uses 25mb of RAM).
 
