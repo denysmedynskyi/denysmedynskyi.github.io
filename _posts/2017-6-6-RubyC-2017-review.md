@@ -19,7 +19,7 @@ I met a lot of nice people. Also, there were a lot of acquaintances from other c
 
 I talked with so big amount of people, that in the end of the day I was tired of talking and communication. This is the feelings of an introvert)
 
-I will summarize with **Ben Lowell**’s quote:
+I will summarize with **Ben Lovell**’s quote:
 
 > If someone would like to destroy **Ruby** community in Ukraine the easiest way to do it is to explode rubyc.eu venue.
 
