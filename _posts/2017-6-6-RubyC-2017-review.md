@@ -8,14 +8,20 @@ Have you missed the best **Ruby** conference in Ukraine? It is not a problem. He
 ## organization
 
 Organization was great.
+
 The venue looked nicer than the year before, on the other hand I was lacking a particular place for talking with speakers and attendees.
+
 There were a lot places for lunch around the venue, so you could easily have lunch and be in time for the next talk.
 
 ## networking
 
-I met a lot of nice people. Also, there were a lot of acquaintances from other conferences and meetups. I talked with so big amount of people, that in the end of the day I was tired of talking and communication. This is the feelings of an introvert) I will summarize with **Ben Lowell**’s quote:
+I met a lot of nice people. Also, there were a lot of acquaintances from other conferences and meetups.
 
-If someone would like to destroy **Ruby** community in Ukraine the easiest way to do it is to explode rubyc.eu venue.
+I talked with so big amount of people, that in the end of the day I was tired of talking and communication. This is the feelings of an introvert)
+
+I will summarize with **Ben Lowell**’s quote:
+
+> If someone would like to destroy **Ruby** community in Ukraine the easiest way to do it is to explode rubyc.eu venue.
 
 ## talks
 
