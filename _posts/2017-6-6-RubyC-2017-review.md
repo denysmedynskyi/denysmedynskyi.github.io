@@ -35,7 +35,7 @@ The other professional speaker is **Piotr Solnica**. He was wearing a [#pivorak]
 
 Quentin Adam was talking about **microservices** and pitfalls that you can avoid. His project has around 400 **microservices** in different languages. It sounds sexy because **microservice** could be written in a different language depending on the needs and easily scale. However, management of such repositories & deployment scares and amazes me.
 
-Finally, **Sergiy Kukunin**’s talk was a good ending for the conference. It was quite abstract, not totally coupled with **Ruby**. There were not too much code, but when it was it was concise and clear. To solve his problems he uses **DDD** & [**rom-rb**](http://rom-rb.org/).
+Finally, [**Sergiy Kukunin - Tackling complex Ruby architecture**](https://docs.google.com/presentation/d/1yhqdzHmMreqiltC9f0FOXGbrjhxnYFYGRl4jtXwLAc0/edit#slide=id.g35f391192_00) talk was a good ending for the conference. It was quite abstract, not totally coupled with **Ruby**. There were not too much code, but when it was it was concise and clear. To solve his problems he uses **DDD** & [**rom-rb**](http://rom-rb.org/).
 
 ## trends
 
