@@ -25,7 +25,7 @@ I will summarize with **Ben Lovell**’s quote:
 
 ## talks
 
-The first talk I liked was [**Piotr Szotkowski - Ruby Smells**](http://talks.chastell.net/rubyc-2017/#/). It was such general talk that you can apply in other languages. I understood that I don’t so many different smells he mentioned, so I have a lot of things to read now).
+The first talk I liked was [**Piotr Szotkowski - Ruby Smells**](http://talks.chastell.net/rubyc-2017/#/). It was such general talk that you can apply in other languages. I understood that I don’t know so many smells he mentioned, so I have a lot of things to read now).
 
 **Bozhidar Batsov** is a professional speaker, creator of **Rubocop** & **Ruby** style guide. I was listening to this for the second time. It was a nice overview of things that **Ruby** lacks and a lot of **Clojure** promotion) It is nice when people are following different languages, so it gives different views and approaches.
 
