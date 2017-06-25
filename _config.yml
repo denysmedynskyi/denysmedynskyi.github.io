@@ -14,6 +14,8 @@ avatar: https://scontent-frx5-1.xx.fbcdn.net/v/t31.0-8/15325165_1464765586884825
 #
 # Flags below are optional
 #
+# Show posts with future date
+# future: true
 
 # Includes an icon in the footer for each username you enter
 footer-links:
