@@ -101,7 +101,7 @@ As you can see memory stops growing, so it is a [memory bloat](http://book.scout
 After the reason for memory growth is found next step is to decide if is it worth to fix it or not.
 
 **In my case**: 
-1. I suspected problem in the specs, but found that memory increases the same way in `rails console`
+1. I was suspecting problem in the specs, but found that memory increases the same way in `rails console`
 2. It is not a memory leak
 3. Memory bloat is small enough to fix it later  
 
