@@ -7,7 +7,7 @@ title: How to debug memory issues using RSpec?
 
 ## problem
 
-All **CI** builds were failing with an exception `Cannot allocate memory`, which means that server does not have enough **memory**. Of course, you can just increase **memory** on the server, but it can be a sign of the problem, so it is worth to be investigated. This is why I started digging into the problem try to find out the reason of the **memory leak**.
+All **CI** builds were failing with an exception `Cannot allocate memory`, which means that server does not have enough **memory**. Of course, you can just increase **memory** on the server, but it can be a sign of the problem, so it is worth to be investigated. This is why I started digging into the problem to find out the reason of the **memory leak**.
 
 ## research
 
@@ -23,7 +23,7 @@ $ rails c
 => 141.671875
 ```
 
-I need to inspect RSpec test suite, so I added the following snippet to the `spec/rails_helper.rb`:
+I needed to inspect RSpec test suite, so I added the following snippet to the `spec/rails_helper.rb`:
 
 ```ruby
   RSpec.configure do |config|
@@ -58,7 +58,7 @@ Result is a CSV file with values: example & memory consumption in MBs:
 
 ## investigation
 
-To solve this puzzle you need to look for the spikes - large increases in the memory. You can do it manually of using [plot tool](https://plot.ly/~denys.medynskyi/2.embed):
+To solve this puzzle you need to look for the spikes - large increases in memory. You can do it manually of using [plot tool](https://plot.ly/~denys.medynskyi/2.embed):
 
 ![Request specs graph](http://i.imgur.com/2NmgIuv.png)
 
@@ -98,8 +98,11 @@ As you can see memory stops growing, so it is a [memory bloat](http://book.scout
 
 ## conclusion
 
-After the reason for memory growth is found next step is to decide is it worth to fix it or not.
+After the reason for memory growth is found next step is to decide if is it worth to fix it or not.
 
-In my case, it is a small increase and it stops growing very quickly, so I am not going to fix it soon.
+**In my case**: 
+1. I suspected problem in the specs, but found that memory increases the same way in `rails console`
+2. It is not a memory leak
+3. Memory bloat is small enough to fix it later  
 
 Thank you for reading! I hope it was useful for you.
