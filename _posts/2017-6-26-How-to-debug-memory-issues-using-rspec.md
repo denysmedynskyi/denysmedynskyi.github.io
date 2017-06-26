@@ -103,6 +103,6 @@ After the reason for memory growth is found next step is to decide if is it wort
 **In my case**: 
 1. I was suspecting problem in the specs, but found that memory increases the same way in `rails console`
 2. It is not a memory leak
-3. Memory bloat is small enough to fix it later  
+3. Memory bloat is small enough to ignore it  
 
 Thank you for reading! I hope it was useful for you.
