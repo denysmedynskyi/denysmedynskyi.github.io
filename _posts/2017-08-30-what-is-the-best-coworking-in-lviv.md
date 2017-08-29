@@ -32,7 +32,7 @@ In the end, I created a [map with all coworkings](https://www.google.com/maps/d/
 + Payments on a daily basis.
 
 ### -Cons
-- It is almost empty. There are no people to talk.
+- It is almost empty. There are no people to talk to.
 - Interior is bad.
 - A company rents a room and they will come through the open-space a lot of times during the day.
 - Small.
