@@ -20,59 +20,6 @@ In the end, I created a [map with all coworkings](https://www.google.com/maps/d/
 * Workable atmosphere. 
 * Quiet place for meetings.
 
-## [z-one hub](http://www.z-one.com.ua/coworking)
-**Location**: [Chaikovs'koho Street, 27](https://goo.gl/PMDj2z) 
-
-### +Pros
-+ Internet speed is perfect - no problems during the calls at all. 
-+ Central location 10 minutes walk from [Market Square](https://en.wikipedia.org/wiki/Market_Square_(Lviv)).
-+ A lot of lunch options.
-+ z-one is also a [hostel](http://www.z-one.com.ua/hostel)/[apart-hotel](http://www.z-one.com.ua/appartments).
-+ You can work in the yard outdoors. However, when the sun shines into your monitor it is not so good.
-+ Payments on a daily basis.
-
-### -Cons
-- It is almost empty. There are no people to talk to.
-- Interior is bad.
-- A company rents a room and they will come through the open-space a lot of times during the day.
-- Small.
-- No meeting rooms.
-
-### Photos
-
-![entrance](https://lh3.googleusercontent.com/D9xZsugsAuzQIpW8b6XTJ6g8a6pbSqaLUiNtWlXYbIOGAEdLGe_R03i9rb-rmQM9Lly45OFtC7oFwQGqdYy7YYzjlCxtO2LqVlTJe_70dA7dj5TJlJJ5tu4o_t2Uomn2RM25-E2iJWy-tZDOF36U5qGcdf31WJJJIJ9qY-l_BUtYVYNeCrIhrui6gs4bpvYSjwIpAEfbx-vs_A7oqYXMIU49qv8uZYuNaYOo-MzLOUZoK1oOGEGdGe7u1XinpWPj78wKamfaUgeRiy94hNVLuYOmQEgybM3ZgpaU8ouqKTyYDkTryJdKHgCROG6lqjBW_KDo9j4tisHiUg_O1CYS_7o9CPpOB61-t1rIzqxB97bwnGG33JwgqAZKDpIHR02huz-5w5neexqsFGXoXq33DJVEuNHLc1BkfcJmPs6lKp4wiTYUmmvnS7Hz2M-fkTkJnpIFsPbqFD5w0IumfB0zt1kii_91ZpSEQ5IbzwrjIMWUzrtj0twCLPo9ejEYXGHACisUJuoarh1cq2teokRWk9NWN3Jsj8-76WS2TmKWkFVvwiKZiI5K62UN4n0rn2k_AB6ik8Dl8q-fhoh0tzmRFY9gKqczBfuccEKSn5uPlz_8Xttvm9tp7krAjLkHGPwWdOUnsxOKk743fIcLANDyILhUty4wDQyL5-yuSUdXTtE8LQ=w800-h1280-no)
-
-Entrance.
-
-![hamak](https://lh3.googleusercontent.com/LxZXDYMMu9zVzol9xzM24T4sq8sIsZMzi10FOXwnN5pPmYEhr9-1cALfTa16uh7gM-iSdmPyLkkde3O3zGtc0vhNtivt_gr77QX-ufYpVcY15yIjhECc3h6RnK3ENaWmKEkd_bCTIDFp71DfR-pRXUuSrK8T7dmzlnsFT5ENU3t95HEfwM0Xp2s6ozzQB-Hn_B5kpBFgqLgbh7BYziKn7IRkA2xyKf7Cn3uWppNy5OriNnHZDudD-BCZvDaScgdpKKG3JmB8MeWt_6fm9zOmd1_f-8TJYIhS-Vbw6y9jSudnNT0j9JJSnQ219dZ3RapFO1EoioM6Ru0VoO_mcJUrceNaf1qzjLeq4paLcdBoq-Lh7EnriKGhbiQrWERm2aXi4NiKjqK8iNbBIWMPXB08fAeMoEHFnPESVraIUDVlZaA5-Ig96qYQQAoi1JOOKTd1ry_Zk3XKPGJuB9D33Fit26LHATEx_WQXhzmJ8-8KXMy_0FKZi4EpIsyPdf1On1xtHkFpJuVzsHeK6fL6b_tJ1fhT4nt2p5ebWf2ndkfVK5By7jMVf0Ve-kEuRZoGEwo4-eHQ2u7XQa9WOab79QEEHsoog3zD-JARQmjZHFyBoefsF5IXDGpgr6KM7Fxd34G48_j3dD22VRim3j2I0IiYFY2ZdOfKJQZZCeaXUYmAkxGIBA=w1280-h800-no)
-
-The hamak is cool.
-
-![outside](https://lh3.googleusercontent.com/RG8qzg0X_Vvat_mTSc5D2C25VPRuDkzTqHVBkCFoO-FXpXkYgWMsJiUubZWnRYj7upsivag4k4LNygtHLENNsbxAgU83yy5r3P6za6hHrHPxdJ_3rttH5ZdlFZU6zajqWUQSZjo3uKa1ym9_KDAW9G7Q3FNPNOY6Ww_C98Lkreg5YKA0LfdN_SVEY_i725NlgBb-H2Hj9RpTsYB2aRFali5LHbG1VHWSe8Z6ekkohlJVzZiS8dQFCRCwFDELu1ar-HhsKpZ8rZmEyKueWwhAhcrs6xf3zUrP7CmMDOKYIh09GHcixvaK0JApeOIzYpSx4WCar9tmpk35-kufOgF1d6SyuznxjZxBDFp6PMfMA11kiHsTn3CfxwmIRq9Yo-S6DQfKQu0vFR7QuAOMwmPiDrJvos6ULee2gbzgXZQ_CaV9sAHx4ii_5W65Z16szS4-3J8xV2WcaUwiOOBeVJIo1MmXgHDIHTsArh8ZOJaHCFFaWaX48G_X8mYn1vcvGpErPF2u7VZCn8iHkG96_O8EjVj1KfD8XnKu2AhcGyn7ZHZuOOEkwmc3LpHG2RYzjATyfi8JGuLRTeBWx2-vbDvhvA1b4G6W7hPOF9ktx16rubDtCpZrw0SnSNgWQpXbK_ci6pChAKo0NQKfpoRqgiNDLWYEZakWN07jg_h0d2XKR4ZqZQ=w1280-h800-no)
-
-Outside you can chill or even work, however, Internet is a little bit worse than inside.
-
-![inside](https://lh3.googleusercontent.com/NVlxDd-kqnvcM-MAAqJH8Nb4f6WHp1_OaGKjiTr3U8LULXWbb8MmL8B7LKDvoY8mq-fk8HTTCCWTlREkzyGMeSBGFIH3A-22-TJOidnkxyQ0IpT4sOxCKxohG0TjBOXGD-PF2r6jz4q3AJzGwqu5jFUjYZ74DRPXfVb5NDfqsVkdBIgMOULqe1HBUkj7Ac01rsxAJL5zniYgyfIsubtPoiR6XtmWWn5XOo7mTX6uAf8kEtELl9Aj049zE0VugquxFpR8PdMm04i6xYF2YmwTXnzdI4a5NpxnQG7dmsXa54FX-KjxmjHjQGp1PIo7uLqOJlfuyKfFrkkK1zUVy-eKSYCXKzQNdfX35c520hEL0-IFfD3IQbspj5J46rdCky8jkla4yHHyFEhgTZV7NTZvJ4i_0NVKiwC0hVLLtaQkfqH0e5xy4yrhw_A3DSCCYv6Sdj-Y0s44DAbm9yaCsiWqy0wi-NYeYEW59N3zU57-KL0G1SuT7tjXar7X0zdxl1QihIisa-W5JkdK0dzALMm6ZCyEP98hwoZ3ty3xXpLH3sQdDIAEng4_jq6Tg-jYs-pWJNiqfEuYkZ2x3AisS3PiFmQVnz_kQbtid7P9jGV09nzwRKRgv7Jm8T0K-VXHac16HIUWoOV2eeUgbD50WZvrX9svs3E7akP8drlpbHHwnIO5iQ=w1280-h800-no)
-
-A few working spaces.
-
-![window-place](https://lh3.googleusercontent.com/zCf9v8UOLGdoI_3DvSgavrDfVbzR8DCytsdulOOvJYRR6ZaazpuT115rsFTCZZYyJGEssNzy8LBPe4Wa_DRTvAg6Rbn7O5o2GaM13aqsbSwGFXTWXPVUg7-bVZaZTYAbvsWm2fWtoalCt92BXhpCXZCvLclRzQm2lNXjNMUA6RUjiqtz-eauCBT5elqOIRhVhNS7LYgrbd8QQsCpodRxYR53PFc6FYCB6XiAZhFuWzVv9M-g5vVN0N9Xy8zSRhO2hOpdpoSemKO1ct7Fcf2WIZ6gzM3OAJQINNWshfETar7-G8AaFDMOhZFk8YXc_2jquaUsUFFZ3n7h4mqepzy8ohSpVv9fLu08Z30kQ3aklKkTcaHxhp9zi-9sYMB16Pjo7AOP9IxFENroiEb6qIvtJ9hkOkksEXuNf5UxwvjCkGmvHZVLOr4dKmiO27GGdSV9bTWzd_HQFQJ3ENlrAn1w8i8t7Y5EcGOcGWs7jHfzWaREPQTFYrQGyqS-RcOUefWbUg6sIj2i1bxS8gF-gV04YYPNlTExPsb2VaKoxCtyNgIl_cOOXM2Cz15S-wBikaZWQZz5ZSaX9Jk_Sm4YQJcNeBsIls99xbBlTd0OPLM3e1EApP0BfsXXXbshYA2OiNeZDYFR-LThQe04LS5wA66p1V7I7cOpA-qXodhPLKu4s_PESQ=w1280-h800-no)
-
-The best place is near the window.
-
-![rest-place](https://lh3.googleusercontent.com/5ScDKSAqFFaQiIlOWrhJRSz4qEqSrglXdNSUdUXlzMsh6OMPk-7m_bjpihK9kjK4tGk8K_3BMLmpZxTt_8wMyB0u0Iv3cRWSQAB6pt9Y0QlPSJfHZSu2GuFO-lsKNuP1EGyav7fjsAT1lHtgO0kcbtO1gfu-3R9RnjrIM1R1sYBIIZH6W_KcA_flAaMgdcMTDE9gsKTqz9obGOLfoZNS56d-SBOtGwE0n-CKOBO12xDwhk8KuICDE3HYP89OUeD7KlsLUQJpRvAdlfgQIH5zWRO90O_uelWao_XoGNgkDyTsRoVfyzojKyciiQaHDmFy8NOFN36X_JWJJc0tNpCV8Rv-4yZBqUQj3cPR9XICGB3DPkZlAmEXZ7dUWwY_rJzrAwYR7KMDcTbQETMBm3Gj6CoCwvk88_fBQ0CUSmsiYTjYJNiYmzYgjEJtIXT84PVNB0ipVbwyWLL1rhS0HV7gf83nHqfhh7ZNW5fuBowC5_cyDcglJwQ-GTcDdXi2pZ07pBn7Y7rRbQn7ha2imhqorWiQufLmz-vTeJCtdLPkfIMIrPuArvPGTqpzyWIGILohuI9jR7XMoZw_DOP0_yPAG38FZUb2aClvPRDQzyzhSppkP2SKodd8Ke0EvX_VDIZEWdOcG69iR8Bhi0i31WMar3APh48gQLFZmA7CeD5i-jW4tA=w1280-h800-no)
-
-You can rest on these bag sofas.
-
-![Bar](https://lh3.googleusercontent.com/2BfMNybfeis4vAXZ5PAudK_267sSvHhTgcvsPAIfrVXGWVu9h4Aaq1oCb_mH_dqXYVOE7tcVIjBJVDE8k0xM49pkphn-cT_XYNjyw247-rpVQPB3FeE9su-rM1bUuNFnoSn-AsxxapgMHRac3S4qY6peEhlscTvIhpWwCE2ZAw4ESZ60JCWaBIVff98RJQbXFuhmdFPlP_yh3y8qWBKugWqxEdGwGkfPkiy_fw-omvvA2FMzdNA6JyxaaUuF6kGNmXnAe6rfT1Sfdn1rJoOXclCC5hEQtAzO47Ai4q53LjPc0WacTTp4OQ4d4L-0OOUn_eXkWXTyc-SmGpO5ByJt319aeoB0WGYhxRoket3sOwwg1kyr6lCNw6ivPuiFJzf97YCT_uuH3tNchT36xUE931UnQfj2ER8Ut8dxxbd40cQI1WWv8Bfy0z2NkIq2wO_Sgb3dzBG_xLCBLYj8KWHPr--uNYe1TRF0tiozzM267NHJ0HGICWcp-NmWvlpio1lrUvE7xhUkyNVShUVyaoQNA_zlrL2yr7ye0I8EvmA9DMBqQQap1L05-zgdV6pMY48OuiffqzEyIs9LMMA1vTGkXVAXHjTQLiI5FTsSeYVGjwGFY68l1ZIp-BAXOixdyarlcWYTmzFo2Miy1tz6kwRSwjp_OTIq_5jsCkT7nQelF0golw=w1280-h800-no)
-
-Coffee, tea, snacks.
- 
-## Summary - 6 / 10
-
-OKay, but small and not lively. People coming through the room all the time - it is very annoying.
-
-
 ## [Communa](http://communa.net.ua/)
 **Location**: [Halytska Street, 1](https://goo.gl/2GLDR8) 
 
@@ -182,7 +129,59 @@ Small room.
 Tea, fridge & microwave oven.
 
 ### Summary - 5 / 10
-It was the best option in the city center until the event was started in a room and asked us to move to other room. Also, Internet got broken. 
+It was the best option in the city center until the event was started in a room and asked us to move to other room. Also, Internet got broken.
+ 
+## [z-one hub](http://www.z-one.com.ua/coworking)
+**Location**: [Chaikovs'koho Street, 27](https://goo.gl/PMDj2z) 
+
+### +Pros
++ Internet speed is perfect - no problems during the calls at all. 
++ Central location 10 minutes walk from [Market Square](https://en.wikipedia.org/wiki/Market_Square_(Lviv)).
++ A lot of lunch options.
++ z-one is also a [hostel](http://www.z-one.com.ua/hostel)/[apart-hotel](http://www.z-one.com.ua/appartments).
++ You can work in the yard outdoors. However, when the sun shines into your monitor it is not so good.
++ Payments on a daily basis.
+
+### -Cons
+- It is almost empty. There are no people to talk to.
+- Interior is bad.
+- A company rents a room and they will come through the open-space a lot of times during the day.
+- Small.
+- No meeting rooms.
+
+### Photos
+
+![entrance](https://lh3.googleusercontent.com/D9xZsugsAuzQIpW8b6XTJ6g8a6pbSqaLUiNtWlXYbIOGAEdLGe_R03i9rb-rmQM9Lly45OFtC7oFwQGqdYy7YYzjlCxtO2LqVlTJe_70dA7dj5TJlJJ5tu4o_t2Uomn2RM25-E2iJWy-tZDOF36U5qGcdf31WJJJIJ9qY-l_BUtYVYNeCrIhrui6gs4bpvYSjwIpAEfbx-vs_A7oqYXMIU49qv8uZYuNaYOo-MzLOUZoK1oOGEGdGe7u1XinpWPj78wKamfaUgeRiy94hNVLuYOmQEgybM3ZgpaU8ouqKTyYDkTryJdKHgCROG6lqjBW_KDo9j4tisHiUg_O1CYS_7o9CPpOB61-t1rIzqxB97bwnGG33JwgqAZKDpIHR02huz-5w5neexqsFGXoXq33DJVEuNHLc1BkfcJmPs6lKp4wiTYUmmvnS7Hz2M-fkTkJnpIFsPbqFD5w0IumfB0zt1kii_91ZpSEQ5IbzwrjIMWUzrtj0twCLPo9ejEYXGHACisUJuoarh1cq2teokRWk9NWN3Jsj8-76WS2TmKWkFVvwiKZiI5K62UN4n0rn2k_AB6ik8Dl8q-fhoh0tzmRFY9gKqczBfuccEKSn5uPlz_8Xttvm9tp7krAjLkHGPwWdOUnsxOKk743fIcLANDyILhUty4wDQyL5-yuSUdXTtE8LQ=w800-h1280-no)
+
+Entrance.
+
+![hamak](https://lh3.googleusercontent.com/LxZXDYMMu9zVzol9xzM24T4sq8sIsZMzi10FOXwnN5pPmYEhr9-1cALfTa16uh7gM-iSdmPyLkkde3O3zGtc0vhNtivt_gr77QX-ufYpVcY15yIjhECc3h6RnK3ENaWmKEkd_bCTIDFp71DfR-pRXUuSrK8T7dmzlnsFT5ENU3t95HEfwM0Xp2s6ozzQB-Hn_B5kpBFgqLgbh7BYziKn7IRkA2xyKf7Cn3uWppNy5OriNnHZDudD-BCZvDaScgdpKKG3JmB8MeWt_6fm9zOmd1_f-8TJYIhS-Vbw6y9jSudnNT0j9JJSnQ219dZ3RapFO1EoioM6Ru0VoO_mcJUrceNaf1qzjLeq4paLcdBoq-Lh7EnriKGhbiQrWERm2aXi4NiKjqK8iNbBIWMPXB08fAeMoEHFnPESVraIUDVlZaA5-Ig96qYQQAoi1JOOKTd1ry_Zk3XKPGJuB9D33Fit26LHATEx_WQXhzmJ8-8KXMy_0FKZi4EpIsyPdf1On1xtHkFpJuVzsHeK6fL6b_tJ1fhT4nt2p5ebWf2ndkfVK5By7jMVf0Ve-kEuRZoGEwo4-eHQ2u7XQa9WOab79QEEHsoog3zD-JARQmjZHFyBoefsF5IXDGpgr6KM7Fxd34G48_j3dD22VRim3j2I0IiYFY2ZdOfKJQZZCeaXUYmAkxGIBA=w1280-h800-no)
+
+The hamak is cool.
+
+![outside](https://lh3.googleusercontent.com/RG8qzg0X_Vvat_mTSc5D2C25VPRuDkzTqHVBkCFoO-FXpXkYgWMsJiUubZWnRYj7upsivag4k4LNygtHLENNsbxAgU83yy5r3P6za6hHrHPxdJ_3rttH5ZdlFZU6zajqWUQSZjo3uKa1ym9_KDAW9G7Q3FNPNOY6Ww_C98Lkreg5YKA0LfdN_SVEY_i725NlgBb-H2Hj9RpTsYB2aRFali5LHbG1VHWSe8Z6ekkohlJVzZiS8dQFCRCwFDELu1ar-HhsKpZ8rZmEyKueWwhAhcrs6xf3zUrP7CmMDOKYIh09GHcixvaK0JApeOIzYpSx4WCar9tmpk35-kufOgF1d6SyuznxjZxBDFp6PMfMA11kiHsTn3CfxwmIRq9Yo-S6DQfKQu0vFR7QuAOMwmPiDrJvos6ULee2gbzgXZQ_CaV9sAHx4ii_5W65Z16szS4-3J8xV2WcaUwiOOBeVJIo1MmXgHDIHTsArh8ZOJaHCFFaWaX48G_X8mYn1vcvGpErPF2u7VZCn8iHkG96_O8EjVj1KfD8XnKu2AhcGyn7ZHZuOOEkwmc3LpHG2RYzjATyfi8JGuLRTeBWx2-vbDvhvA1b4G6W7hPOF9ktx16rubDtCpZrw0SnSNgWQpXbK_ci6pChAKo0NQKfpoRqgiNDLWYEZakWN07jg_h0d2XKR4ZqZQ=w1280-h800-no)
+
+Outside you can chill or even work, however, Internet is a little bit worse than inside.
+
+![inside](https://lh3.googleusercontent.com/NVlxDd-kqnvcM-MAAqJH8Nb4f6WHp1_OaGKjiTr3U8LULXWbb8MmL8B7LKDvoY8mq-fk8HTTCCWTlREkzyGMeSBGFIH3A-22-TJOidnkxyQ0IpT4sOxCKxohG0TjBOXGD-PF2r6jz4q3AJzGwqu5jFUjYZ74DRPXfVb5NDfqsVkdBIgMOULqe1HBUkj7Ac01rsxAJL5zniYgyfIsubtPoiR6XtmWWn5XOo7mTX6uAf8kEtELl9Aj049zE0VugquxFpR8PdMm04i6xYF2YmwTXnzdI4a5NpxnQG7dmsXa54FX-KjxmjHjQGp1PIo7uLqOJlfuyKfFrkkK1zUVy-eKSYCXKzQNdfX35c520hEL0-IFfD3IQbspj5J46rdCky8jkla4yHHyFEhgTZV7NTZvJ4i_0NVKiwC0hVLLtaQkfqH0e5xy4yrhw_A3DSCCYv6Sdj-Y0s44DAbm9yaCsiWqy0wi-NYeYEW59N3zU57-KL0G1SuT7tjXar7X0zdxl1QihIisa-W5JkdK0dzALMm6ZCyEP98hwoZ3ty3xXpLH3sQdDIAEng4_jq6Tg-jYs-pWJNiqfEuYkZ2x3AisS3PiFmQVnz_kQbtid7P9jGV09nzwRKRgv7Jm8T0K-VXHac16HIUWoOV2eeUgbD50WZvrX9svs3E7akP8drlpbHHwnIO5iQ=w1280-h800-no)
+
+A few working spaces.
+
+![window-place](https://lh3.googleusercontent.com/zCf9v8UOLGdoI_3DvSgavrDfVbzR8DCytsdulOOvJYRR6ZaazpuT115rsFTCZZYyJGEssNzy8LBPe4Wa_DRTvAg6Rbn7O5o2GaM13aqsbSwGFXTWXPVUg7-bVZaZTYAbvsWm2fWtoalCt92BXhpCXZCvLclRzQm2lNXjNMUA6RUjiqtz-eauCBT5elqOIRhVhNS7LYgrbd8QQsCpodRxYR53PFc6FYCB6XiAZhFuWzVv9M-g5vVN0N9Xy8zSRhO2hOpdpoSemKO1ct7Fcf2WIZ6gzM3OAJQINNWshfETar7-G8AaFDMOhZFk8YXc_2jquaUsUFFZ3n7h4mqepzy8ohSpVv9fLu08Z30kQ3aklKkTcaHxhp9zi-9sYMB16Pjo7AOP9IxFENroiEb6qIvtJ9hkOkksEXuNf5UxwvjCkGmvHZVLOr4dKmiO27GGdSV9bTWzd_HQFQJ3ENlrAn1w8i8t7Y5EcGOcGWs7jHfzWaREPQTFYrQGyqS-RcOUefWbUg6sIj2i1bxS8gF-gV04YYPNlTExPsb2VaKoxCtyNgIl_cOOXM2Cz15S-wBikaZWQZz5ZSaX9Jk_Sm4YQJcNeBsIls99xbBlTd0OPLM3e1EApP0BfsXXXbshYA2OiNeZDYFR-LThQe04LS5wA66p1V7I7cOpA-qXodhPLKu4s_PESQ=w1280-h800-no)
+
+The best place is near the window.
+
+![rest-place](https://lh3.googleusercontent.com/5ScDKSAqFFaQiIlOWrhJRSz4qEqSrglXdNSUdUXlzMsh6OMPk-7m_bjpihK9kjK4tGk8K_3BMLmpZxTt_8wMyB0u0Iv3cRWSQAB6pt9Y0QlPSJfHZSu2GuFO-lsKNuP1EGyav7fjsAT1lHtgO0kcbtO1gfu-3R9RnjrIM1R1sYBIIZH6W_KcA_flAaMgdcMTDE9gsKTqz9obGOLfoZNS56d-SBOtGwE0n-CKOBO12xDwhk8KuICDE3HYP89OUeD7KlsLUQJpRvAdlfgQIH5zWRO90O_uelWao_XoGNgkDyTsRoVfyzojKyciiQaHDmFy8NOFN36X_JWJJc0tNpCV8Rv-4yZBqUQj3cPR9XICGB3DPkZlAmEXZ7dUWwY_rJzrAwYR7KMDcTbQETMBm3Gj6CoCwvk88_fBQ0CUSmsiYTjYJNiYmzYgjEJtIXT84PVNB0ipVbwyWLL1rhS0HV7gf83nHqfhh7ZNW5fuBowC5_cyDcglJwQ-GTcDdXi2pZ07pBn7Y7rRbQn7ha2imhqorWiQufLmz-vTeJCtdLPkfIMIrPuArvPGTqpzyWIGILohuI9jR7XMoZw_DOP0_yPAG38FZUb2aClvPRDQzyzhSppkP2SKodd8Ke0EvX_VDIZEWdOcG69iR8Bhi0i31WMar3APh48gQLFZmA7CeD5i-jW4tA=w1280-h800-no)
+
+You can rest on these bag sofas.
+
+![Bar](https://lh3.googleusercontent.com/2BfMNybfeis4vAXZ5PAudK_267sSvHhTgcvsPAIfrVXGWVu9h4Aaq1oCb_mH_dqXYVOE7tcVIjBJVDE8k0xM49pkphn-cT_XYNjyw247-rpVQPB3FeE9su-rM1bUuNFnoSn-AsxxapgMHRac3S4qY6peEhlscTvIhpWwCE2ZAw4ESZ60JCWaBIVff98RJQbXFuhmdFPlP_yh3y8qWBKugWqxEdGwGkfPkiy_fw-omvvA2FMzdNA6JyxaaUuF6kGNmXnAe6rfT1Sfdn1rJoOXclCC5hEQtAzO47Ai4q53LjPc0WacTTp4OQ4d4L-0OOUn_eXkWXTyc-SmGpO5ByJt319aeoB0WGYhxRoket3sOwwg1kyr6lCNw6ivPuiFJzf97YCT_uuH3tNchT36xUE931UnQfj2ER8Ut8dxxbd40cQI1WWv8Bfy0z2NkIq2wO_Sgb3dzBG_xLCBLYj8KWHPr--uNYe1TRF0tiozzM267NHJ0HGICWcp-NmWvlpio1lrUvE7xhUkyNVShUVyaoQNA_zlrL2yr7ye0I8EvmA9DMBqQQap1L05-zgdV6pMY48OuiffqzEyIs9LMMA1vTGkXVAXHjTQLiI5FTsSeYVGjwGFY68l1ZIp-BAXOixdyarlcWYTmzFo2Miy1tz6kwRSwjp_OTIq_5jsCkT7nQelF0golw=w1280-h800-no)
+
+Coffee, tea, snacks.
+ 
+## Summary - 6 / 10
+
+OKay, but small and not lively. People coming through the room all the time - it is very annoying.
 
 ## [OK Factory](https://coworking.lviv.ua/)
 **Location**: [Zelena St, 20](https://goo.gl/bPLQm5)
@@ -197,7 +196,7 @@ It was the best option in the city center until the event was started in a room 
 + Loft interior.
 
 ### -Cons
-- There are not *many* lunch places around. You will need to for 15 minutes to the city center if you want to have lunch there.  
+- There are not *many* lunch places around. You will need at least 15 minutes to reach the city center, if you want to have lunch there.  
 - No meeting rooms. You need to pay for a fixed place.
 
 ### Photos
