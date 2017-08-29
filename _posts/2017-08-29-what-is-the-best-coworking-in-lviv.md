@@ -129,7 +129,7 @@ Small room.
 Tea, fridge & microwave oven.
 
 ### Summary - 5 / 10
-It was the best option in the city center until the event was started in a room and asked us to move to other room. Also, Internet got broken.
+It was the best option in the city center until Internet got broken. Also almost no residents here. 
  
 ## [z-one hub](http://www.z-one.com.ua/coworking)
 **Location**: [Chaikovs'koho Street, 27](https://goo.gl/PMDj2z) 
