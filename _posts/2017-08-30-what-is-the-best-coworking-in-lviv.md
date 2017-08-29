@@ -5,7 +5,7 @@ title: What is the best coworking in Lviv?
 
 I am a remote worker at [Toptal](https://www.toptal.com/careers/ruby-on-rails-developer). I started working from home and cafes, but for different reasons, I ended up in a coworking.  
 
-I have visited all coworking spaces in Lviv except [Startup Depot](http://startupdepot.lviv.ua/en/). I spent a day in each coworking. The review will have pros/cons, photos, and short summary/rating. 
+I spent a day in each coworking. The review will have pros/cons, photos, and short summary/rating. 
 
 If you are TL;DR person - feel free jump to the [comparison table](#comparison-table).
 
