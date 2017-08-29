@@ -142,7 +142,7 @@ I had a choice to work here, but bags are not comfortable for me.
 
 ![Kitchen](https://lh3.googleusercontent.com/0BGZh-YieIy26A9_HpPesxzNzVvjyL66nhA8NELht9b5vpBB3qo1l5l-lCBsRePiQJGXdUOLchPe0i1BgdUVHWTIUvtsZT18oERguU-QrrG5jO8epDZpfCdG7bCJm3i5R1G5weMbPIlY54a8SrJQTL73LgBN5xJ4-1xvmskNhvKF8B3j592mSVuwFZVuk6YsrveCx5yUrS_V4aPRfdYZMBJEbB-Q4SgBKymGXSAL7unxvfIIRgHScBUzalDrNPT4Ap-HZdmnqcHTP-8dTvBULz2PBJ2qVP7FZf4FJTKPHxF2U6HN57qAq3Spi6SecNmtv-7gIzv9bhN2zSguzByhdXVZkXPJvAaR17KPKAJxTbWUbnVfhoXmqW-5i3CDxymajrnpBP26Lz1mBJ2fiMreYHPCt-2GM0MXoppQ4xWDkFYnrsr0Vuv4YgpvGcVTDkD57a3Lg-eKWGbqqGN5TuZRBFSJa75iVlSbke-cni013M-xNfeZEk5bpikzVHTP2-Gz497gYlPaB96IlJkx7_eVRLeWa_ZxEoeiu7RlAkFSKM_4b6Z__x3mYcrJzYR2qgWl5DY8Azd5vBctyQnWKtpcZCCXw1tpGawNpMUR7o_G14H6CYey1gx_29XgdH0hpN9OpxKcvna1tnqlMhhw8Zdd5--QHgiHdQh5Ec411thcfbMeDQ=w1280-h800-no)
 
-I and my friend ended up working in the kitchen, which was comfortable.
+My friend and I ended up working in the kitchen, which was comfortable.
 
 ### Summary - 4 / 10 
 
