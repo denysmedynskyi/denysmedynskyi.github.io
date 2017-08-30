@@ -257,7 +257,6 @@ One of 2 best choices in the city center with.
 + A lot of IT events are happening here.
 
 ### -Cons
-- It is not possible to pay for a day. Only monthly options.
 - No good places to eat nearby. You will spend 10-15 minutes walking to the place.
 - Not possible to pay daily/weekly. Only a monthly option.
 
