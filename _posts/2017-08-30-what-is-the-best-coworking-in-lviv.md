@@ -196,6 +196,8 @@ OKay, but small and not lively. People coming through the room all the time - it
 + Payments on a daily basis.
 + Shower. You can get here by bicycle and take a shower afterwards
 + Loft interior.
++ You can pay with Bitcoin.
++ Meeting room for everyone.
 
 ### -Cons
 - There are not *many* lunch places around. You will need at least 15 minutes to reach the city center, if you want to have lunch there.  
