@@ -3,7 +3,10 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
+    <meta content="article" property="og:type">
+
     <meta property="og:site_name" content="{{ site.name }}" />
+    <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}" />
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="fb:app_id" content="{{ page.fb.app_id }}" />
     <meta name="author" content="{{ site.name }}" />
@@ -11,9 +14,6 @@
     {% if page.header-img %}
     <meta property="og:image" content="https://{{ site.url }}/{{ page.header-img }}" />
     {% endif %}
-
-    <meta content="article" property="og:type">
-    <meta content="article" property="og:type">
 
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
