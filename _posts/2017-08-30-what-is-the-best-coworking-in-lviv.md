@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is the best coworking in Lviv?
-excerpt: I visited all(almost) coworkings in Lviv and I want to share the knowledge with you. Map with all of them is included.
+excerpt: I visited all(almost) coworkings in Lviv and I want to share the knowledge with you. Many photos, subjective opinions, and comparison.
 header-img: "images/coworkings-share-image.jpg"
 ---
 
