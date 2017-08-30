@@ -13,7 +13,7 @@ If you are TL;DR person - feel free jump to the [comparison table](#comparison-t
 
 In the end, I created a [map with all coworkings](https://www.google.com/maps/d/u/0/viewer?mid=1ghDGaVzgFavZVVSTxQRMFxfAvLM&ll=49.838703523177166%2C24.016400006884737&z=14) which can help you to find the best coworking nearby.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ghDGaVzgFavZVVSTxQRMFxfAvLM" width="720" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1ghDGaVzgFavZVVSTxQRMFxfAvLM" width="100%" height="480"></iframe>
 
 ### My criteria:
 * Good (enough) Internet.
