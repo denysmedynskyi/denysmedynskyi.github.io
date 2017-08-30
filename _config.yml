@@ -87,7 +87,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-
-fb:
-  app_id: 1957213717849836
